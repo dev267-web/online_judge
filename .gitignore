@@ -1,0 +1,14 @@
+# VS Code
+.vscode/
+
+# Env
+.env
+
+# Go build artifacts (safe)
+*.exe
+*.out
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

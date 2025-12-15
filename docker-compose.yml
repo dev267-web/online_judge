@@ -5,7 +5,7 @@ services:
     environment:
       POSTGRES_DB: oj
       POSTGRES_USER: ojuser
-      POSTGRES_PASSWORD: DEV1226!
+      POSTGRES_PASSWORD: ******
     ports:
       - "5432:5432"
     volumes:
